@@ -1,6 +1,6 @@
 # Password Generator Finished Code
 
-Application is for password generating, has the capability to generate a password from the following guidelines.
+Application is for password generating, has the capability to generate a password from the following guidelines.<br/>
 -From 8 to 128 characters long
 -Include/exclude Lowercase
 -Include/exclude Uppercase
