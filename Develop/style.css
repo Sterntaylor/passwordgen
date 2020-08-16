@@ -22,7 +22,9 @@ body {
   padding-left: 20px;
   padding-right: 20px;
 }
-
+.wrapper h2 {
+ text-align: center;
+}
 header {
   text-align: center;
   padding: 20px;
@@ -71,7 +73,11 @@ header {
   display: block;
   clear: both;
 }
-
+.setting {
+  display: flex;
+  justify-content: center;
+  color: hsl(206, 17%, 28%)
+}
 .btn {
   border: none;
   background-color: hsl(360, 91%, 36%);
